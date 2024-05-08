@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # ToDoList
-Se desarrollo una aplicación web básica que ayuda a tener las tareas por hacer ordenadas en un solo lugar. Este proyecto fue desarrollado con tecnologías como vue.js y express.js  
+A basic web application was developed that helps keep tasks to be done organized in one place. This project was developed with technologies such as vue.js and express.js
 =======
 # to-do-list
 
